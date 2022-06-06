@@ -14,3 +14,6 @@ h1{
     margin-bottom: 15px;
 }
 
+.box{
+    border-radius: 2px solid black;
+}
